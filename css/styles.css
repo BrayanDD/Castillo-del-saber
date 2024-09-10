@@ -1,0 +1,11 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+header{
+    height: 10%;
+}
+
+.img-fluid{
+    max-height: 26em;
+}
